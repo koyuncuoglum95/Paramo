@@ -1,0 +1,295 @@
+.home-paramo {
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  background-color: #182722;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Inter;
+  font-size: .938rem;
+  font-weight: 800;
+  line-height: 30px;
+  display: flex;
+}
+
+.michael-lechner-ih-7-a {
+  height: 100%;
+  background-color: #0003;
+  background-image: url("../../assets/Home/michaelLechnerIh7A.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: space-around;
+  align-items: center;
+  padding-left: 38px;
+  display: flex;
+}
+
+.flex-container {
+  text-align: center;
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 2px;
+  font-size: 1.563rem;
+  font-weight: 400;
+  display: flex;
+}
+
+.logo {
+  width: 123px;
+  height: 112px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-right: 178px;
+}
+
+.paramo {
+  margin-bottom: 18px;
+  margin-left: 35px;
+}
+
+.marketplace {
+  margin-bottom: 13px;
+  margin-left: 10px;
+}
+
+.sign-up {
+  margin-bottom: 14px;
+  margin-left: 1px;
+}
+
+.contact {
+  margin-bottom: 16px;
+}
+
+.rectangle-1 {
+  height: 45%;
+  background-color: #06b376;
+  border-radius: 180px;
+  flex-direction: row;
+  flex-basis: 19%;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: center;
+  margin-top: 15px;
+  display: flex;
+}
+
+.title {
+  text-align: center;
+  font-size: 3.75rem;
+  line-height: 73px;
+}
+
+.regenerating-ecosyst {
+  text-align: center;
+  color: #a7a7a7;
+  font-size: 1.563rem;
+  font-weight: 400;
+}
+
+.flex-container-1 {
+  width: 75%;
+  flex-direction: row;
+  flex-basis: 21%;
+  justify-content: space-between;
+  align-items: stretch;
+  font-weight: 400;
+  line-height: 18px;
+  display: flex;
+}
+
+.rectangle-4 {
+  height: 100%;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  flex-direction: column;
+  flex-basis: 24%;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 7px;
+  display: flex;
+}
+
+.rectangle-4-1 {
+  width: 200px;
+  height: 280px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  margin-top: 2px;
+}
+
+.flex-container-2 {
+  width: 80%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 1px;
+  display: flex;
+}
+
+.num-006 {
+  text-align: right;
+}
+
+.frame-9 {
+  width: 25px;
+  height: 35px;
+  object-fit: cover;
+  border-radius: 50px;
+  margin-top: 3px;
+}
+
+.rectangle-4-2 {
+  height: 100%;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  flex-direction: column;
+  flex-basis: 24%;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 7px;
+  display: flex;
+}
+
+.rectangle-4-3 {
+  width: 200px;
+  height: 282px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  margin-top: 3px;
+}
+
+.flex-container-3 {
+  width: 80%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 1px;
+  display: flex;
+}
+
+.crecer-project-meta {
+  margin-right: 4px;
+}
+
+.num-008 {
+  text-align: right;
+  margin-left: 2px;
+}
+
+.frame-9-1 {
+  width: 25px;
+  height: 35px;
+  object-fit: cover;
+  border-radius: 50px;
+  margin-top: 3px;
+}
+
+.rectangle-5 {
+  height: 100%;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  flex-direction: column;
+  flex-basis: 24%;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 7px;
+  display: flex;
+}
+
+.rectangle-5-1 {
+  width: 200px;
+  height: 284px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  margin-top: 2px;
+}
+
+.flex-container-4 {
+  width: 80%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 2px;
+  display: flex;
+}
+
+.verde-y-nativo-bogot {
+  margin-right: 1px;
+}
+
+.num-007 {
+  text-align: right;
+  margin-bottom: 1px;
+}
+
+.frame-9-2 {
+  width: 25px;
+  height: 35px;
+  object-fit: cover;
+  border-radius: 50px;
+  margin-bottom: 2px;
+}
+
+.rectangle-2 {
+  color: #000;
+  text-align: center;
+  width: 25%;
+  background-color: #02dcdd;
+  border-radius: 180px;
+  flex-direction: row;
+  flex-basis: 3%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 8px;
+  padding-left: 1px;
+  font-size: 1.563rem;
+  font-weight: 400;
+  display: flex;
+}
+
+.explore-collectibles {
+  margin-left: 1px;
+}
+
+.title-1 {
+  text-align: center;
+  font-size: 3.75rem;
+  line-height: 73px;
+}
+
+.we-connect-companies {
+  text-align: center;
+  color: #a7a7a7;
+  margin-bottom: 285px;
+  font-size: 1.563rem;
+  font-weight: 400;
+}
+
+.flex-container-5 {
+  width: 30%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 35px;
+  margin-left: 1px;
+  display: flex;
+}
+
+.social-media-twitte, .social-media-discor, .social-media-instag {
+  width: 92px;
+  height: 92px;
+  object-fit: cover;
+}

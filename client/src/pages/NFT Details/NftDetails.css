@@ -1,0 +1,231 @@
+.nft-details {
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    background-color: #182722;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-family: Inter;
+    font-size: 3.75rem;
+    font-weight: 400;
+    line-height: 73px;
+    display: flex;
+  }
+  
+  .michael-lechner-ih-7-a {
+    height: 100%;
+    background-color: #0003;
+    background-image: url("../../assets/NFTDetails/michaelLechnerIh7A.png");
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 17px;
+    padding-bottom: 2px;
+    padding-left: 57px;
+    display: flex;
+  }
+  
+  .flex-container {
+    text-align: center;
+    width: 90%;
+    flex-direction: row;
+    flex-basis: 11%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 1px;
+    margin-left: 3px;
+    font-size: 1.563rem;
+    line-height: 30px;
+    display: flex;
+  }
+  
+  .logo {
+    width: 123px;
+    height: 112px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    align-self: flex-end;
+    margin-right: 163px;
+  }
+  
+  .paramo {
+    margin-top: 14px;
+    margin-left: 32px;
+  }
+  
+  .marketplace {
+    margin-top: 16px;
+    margin-left: 10px;
+  }
+  
+  .sign-up {
+    margin-top: 15px;
+    margin-left: 1px;
+  }
+  
+  .contact {
+    margin-top: 16px;
+  }
+  
+  .rectangle-8 {
+    height: 45%;
+    background-color: #06b376;
+    border-radius: 180px;
+    flex-direction: row;
+    flex-basis: 19%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4px;
+    display: flex;
+  }
+  
+  .verde-y-nativo-nft-00 {
+    margin-bottom: 16px;
+    font-weight: 800;
+  }
+  
+  .flex-container-1 {
+    width: 75%;
+    flex-direction: row;
+    flex-basis: 51%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 4px;
+    font-size: 1.563rem;
+    font-weight: 800;
+    line-height: 24px;
+    display: flex;
+  }
+  
+  .rectangle-5 {
+    height: 100%;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 31%;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 22px;
+    padding-bottom: 16px;
+    padding-left: 6px;
+    padding-right: 3px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    display: flex;
+  }
+  
+  .rectangle-5-1 {
+    width: 271px;
+    height: 373px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 2px;
+  }
+  
+  .flex-container-2 {
+    width: 85%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-left: 7px;
+    display: flex;
+  }
+  
+  .verde-y-nativo-bogot {
+    margin-right: 3px;
+  }
+  
+  .num-007 {
+    text-align: right;
+    margin-left: 1px;
+  }
+  
+  .frame-9 {
+    width: 25px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50px;
+  }
+  
+  .flex-container-3 {
+    color: #000;
+    height: 100%;
+    flex-direction: column;
+    flex-basis: 64%;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: center;
+    margin-top: 9px;
+    line-height: 30px;
+    display: flex;
+  }
+  
+  .rectangle-7 {
+    color: #fff;
+    width: 100%;
+    background-color: #06b376;
+    border-radius: 50px;
+    flex-direction: row;
+    flex-basis: 76%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    padding-right: 34px;
+    font-weight: 400;
+    display: flex;
+  }
+  
+  .location-47110-n-740 {
+    margin-top: 2px;
+  }
+  
+  .rectangle-1 {
+    text-align: center;
+    width: 45%;
+    background-color: #02dcdd;
+    border-radius: 180px;
+    flex-direction: row;
+    flex-basis: 16%;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    line-height: 48px;
+    display: flex;
+  }
+  
+  .flex-container-4 {
+    width: 30%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 4px;
+    display: flex;
+  }
+  
+  .social-media-twitte {
+    width: 92px;
+    height: 92px;
+    object-fit: cover;
+    margin-right: 2px;
+  }
+  
+  .social-media-discor {
+    width: 92px;
+    height: 92px;
+    object-fit: cover;
+    margin-left: 1px;
+  }
+  
+  .social-media-instag {
+    width: 92px;
+    height: 92px;
+    object-fit: cover;
+  }

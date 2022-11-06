@@ -1,0 +1,571 @@
+.marketplace {
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    background-color: #182722;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-family: Inter;
+    font-size: 1.563rem;
+    font-weight: 800;
+    line-height: 18px;
+    display: flex;
+  }
+  
+  .michael-lechner-ih-7-a {
+    height: 100%;
+    background-color: #0003;
+    background-image: url("../../assets/MarketPlace/michaelLechnerIh7A.png");
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 39px;
+    padding-bottom: 27px;
+    padding-left: 57px;
+    display: flex;
+  }
+  
+  .flex-container {
+    text-align: center;
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-left: 3px;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+  }
+  
+  .logo {
+    width: 123px;
+    height: 112px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    margin-right: 163px;
+  }
+  
+  .paramo {
+    margin-top: 22px;
+    margin-left: 32px;
+  }
+  
+  .marketplace-1 {
+    align-self: center;
+    margin-bottom: 20px;
+    margin-left: 10px;
+  }
+  
+  .sign-up {
+    align-self: center;
+    margin-bottom: 21px;
+    margin-left: 1px;
+  }
+  
+  .contact {
+    align-self: center;
+    margin-bottom: 23px;
+  }
+  
+  .rectangle-1 {
+    height: 45%;
+    background-color: #06b376;
+    border-radius: 180px;
+    flex-direction: row;
+    flex-basis: 19%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+    display: flex;
+  }
+  
+  .title {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 3.75rem;
+    line-height: 73px;
+  }
+  
+  .flex-container-1 {
+    width: 75%;
+    flex-direction: row;
+    flex-basis: 21%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    font-size: .938rem;
+    font-weight: 400;
+    display: flex;
+  }
+  
+  .rectangle-4 {
+    height: 100%;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 24%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 7px;
+    display: flex;
+  }
+  
+  .rectangle-4-1 {
+    width: 200px;
+    height: 280px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 2px;
+  }
+  
+  .flex-container-2 {
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 1px;
+    display: flex;
+  }
+  
+  .num-006 {
+    text-align: right;
+  }
+  
+  .frame-9 {
+    width: 25px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-top: 3px;
+  }
+  
+  .rectangle-4-2 {
+    height: 100%;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 24%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 7px;
+    display: flex;
+  }
+  
+  .rectangle-4-3 {
+    width: 200px;
+    height: 282px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 3px;
+  }
+  
+  .flex-container-3 {
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 1px;
+    display: flex;
+  }
+  
+  .crecer-project-meta {
+    margin-right: 4px;
+  }
+  
+  .num-008 {
+    text-align: right;
+    margin-left: 2px;
+  }
+  
+  .frame-9-1 {
+    width: 25px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-top: 3px;
+  }
+  
+  .rectangle-5 {
+    height: 100%;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 24%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 7px;
+    display: flex;
+  }
+  
+  .rectangle-5-1 {
+    width: 200px;
+    height: 284px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 2px;
+  }
+  
+  .flex-container-4 {
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 2px;
+    display: flex;
+  }
+  
+  .verde-y-nativo-bogot {
+    margin-right: 1px;
+  }
+  
+  .num-007 {
+    text-align: right;
+    margin-bottom: 1px;
+  }
+  
+  .frame-9-2 {
+    width: 25px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-bottom: 2px;
+  }
+  
+  .flex-container-5 {
+    width: 75%;
+    flex-direction: row;
+    flex-basis: 21%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 3px;
+    margin-bottom: 12px;
+    font-size: .938rem;
+    font-weight: 400;
+    display: flex;
+  }
+  
+  .rectangle-4-4 {
+    height: 100%;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 24%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 7px;
+    display: flex;
+  }
+  
+  .rectangle-4-5 {
+    width: 200px;
+    height: 280px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 2px;
+  }
+  
+  .flex-container-6 {
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 1px;
+    display: flex;
+  }
+  
+  .local-2-local-sopo-col {
+    margin-right: 4px;
+  }
+  
+  .num-006-1 {
+    text-align: right;
+    margin-left: 2px;
+  }
+  
+  .frame-9-3 {
+    width: 25px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-top: 3px;
+  }
+  
+  .rectangle-4-6 {
+    height: 100%;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 24%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 7px;
+    display: flex;
+  }
+  
+  .rectangle-4-7 {
+    width: 200px;
+    height: 282px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 3px;
+  }
+  
+  .flex-container-7 {
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 1px;
+    display: flex;
+  }
+  
+  .sop-zipa-colombia-1 {
+    margin-right: 4px;
+  }
+  
+  .num-008-1 {
+    text-align: right;
+    margin-left: 2px;
+  }
+  
+  .frame-9-4 {
+    width: 25px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-top: 3px;
+  }
+  
+  .rectangle-5-2 {
+    height: 100%;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 24%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 7px;
+    display: flex;
+  }
+  
+  .rectangle-5-3 {
+    width: 200px;
+    height: 284px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 2px;
+  }
+  
+  .flex-container-8 {
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 3px;
+    display: flex;
+  }
+  
+  .lands-for-life-meta {
+    margin-right: 5px;
+  }
+  
+  .num-007-1 {
+    text-align: right;
+    margin-bottom: 1px;
+    margin-left: 2px;
+  }
+  
+  .frame-9-5 {
+    width: 25px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-bottom: 2px;
+  }
+  
+  .flex-container-9 {
+    width: 75%;
+    flex-direction: row;
+    flex-basis: 21%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 3px;
+    font-size: .938rem;
+    font-weight: 400;
+    display: flex;
+  }
+  
+  .rectangle-4-8 {
+    height: 100%;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 24%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 7px;
+    display: flex;
+  }
+  
+  .rectangle-4-9 {
+    width: 200px;
+    height: 280px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 2px;
+  }
+  
+  .flex-container-10 {
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+  }
+  
+  .artisan-coffee-valle {
+    margin-right: 4px;
+  }
+  
+  .num-006-2 {
+    text-align: right;
+    margin-left: 2px;
+  }
+  
+  .frame-9-6 {
+    width: 25px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-top: 3px;
+  }
+  
+  .rectangle-4-10 {
+    height: 100%;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 24%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 7px;
+    display: flex;
+  }
+  
+  .rectangle-4-11 {
+    width: 200px;
+    height: 282px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 3px;
+  }
+  
+  .flex-container-11 {
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+  }
+  
+  .jaguares-valle-colom {
+    margin-right: 4px;
+  }
+  
+  .num-008-2 {
+    text-align: right;
+    margin-left: 2px;
+  }
+  
+  .frame-9-7 {
+    width: 25px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-top: 3px;
+  }
+  
+  .rectangle-5-4 {
+    height: 100%;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 24%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 7px;
+    display: flex;
+  }
+  
+  .rectangle-5-5 {
+    width: 200px;
+    height: 284px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 2px;
+  }
+  
+  .flex-container-12 {
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 2px;
+    display: flex;
+  }
+  
+  .ayahuasca-leticia-co {
+    margin-right: 3px;
+  }
+  
+  .num-007-2 {
+    text-align: right;
+    margin-bottom: 1px;
+    margin-left: 1px;
+  }
+  
+  .frame-9-8 {
+    width: 25px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-bottom: 2px;
+  }
+  
+  .flex-container-13 {
+    width: 30%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    display: flex;
+  }
+  
+  .social-media-twitte, .social-media-discor, .social-media-instag {
+    width: 92px;
+    height: 92px;
+    object-fit: cover;
+  }

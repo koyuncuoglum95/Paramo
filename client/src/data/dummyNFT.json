@@ -1,0 +1,28 @@
+[
+    {
+        "tokenId": 0,
+        "address": "0xEB55398D2E9067E76AE0DCB1FF89D5624AE2DC95",
+        "price": 0.005,
+        "image": "https://gateway.pinata.cloud/ipfs/QmZ5QnrLLgANcDj9wQ5DHzgVerskR2vQzC3RqFC8ZPhReJ",
+        "symbol": "MATIC"
+    },
+    {
+        "tokenId": 1,
+        "address": "0x61E370FD9525510B9A698D5EAD7925DC66E54A5F",
+        "price": 0.16,
+        "symbol": "MATIC"
+    },
+    {
+        "tokenId": 2,
+        "address": "msz3JVjeKN6YbLndgEP52cpM77yz8pq588",
+        "price": 0.03,
+        "symbol": "MATIC"
+    },
+    {
+        "tokenId": 3,
+        "address": "msz3JVjeKN6YbLndgEP52cpM77yz8pq588",
+        "price": 0.0012,
+        "symbol": "MATIC"
+    }
+    
+]
